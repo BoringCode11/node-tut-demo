@@ -1,0 +1,29 @@
+- about node
+  // runs on the server. access to file-system, and other core modules
+
+- install node
+  // node -version: returns node version
+
+- using the REPL
+  // node: opens the repl in the terminal
+
+- create file node app
+  // create .js file
+  // node <file_name>: run program
+
+- node Global Variables
+  // accessible everywhere in the program
+
+- node modules
+  // every file in node is a module by default
+  // module.exports = {identifier} -> exporting
+  // require(filePath) -> import
+
+- node core modules(built-in)
+  // os, path, fs, http (node.org): documentation
+
+- npm (nodejs.com)
+  // packages, modules, dependencies
+
+- package.json (manifest file)
+  // 
